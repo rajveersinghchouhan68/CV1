@@ -45,6 +45,13 @@ h3 {
     line-height: 2;   
 }
 
+.skill-par{
+    width: 50%;
+    margin: 20px auto 100px auto;
+    text-align: center;
+    line-height: 2; 
+}
+
 .web {
     text-decoration: underline;
 }
